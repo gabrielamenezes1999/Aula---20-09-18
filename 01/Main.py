@@ -10,7 +10,7 @@ print("Delta: ", delta)
 
 if delta >=0:
     x1 = (-b + math.sqrt(delta)) / (2 * a)
-    x2 = (-b - math.sqrt)(delta)) / (2 * a)
+    x2 = (-b - math.sqrt(delta)) / (2 * a)
     print("Raiz x1: ", x1)
     print("Raiz x2: ", x2)
 else:
